@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>pseudoprojekt</title>
+    <title>pseudoprojekt </title>
 </head>
 <body>
 
