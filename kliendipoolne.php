@@ -6,5 +6,13 @@
 </head>
 <body>
 
+<button onclick="myFunction()">Tere Maailm</button>
+
+<script>
+    function myFunction() {
+        alert("Teated tere maailm");
+    }
+</script>
+
 </body>
 </html>
