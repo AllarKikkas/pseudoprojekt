@@ -1,7 +1,7 @@
 <!doctype html>
 <html lang="en" xmlns="http://www.w3.org/1999/html">
 <head>
-    <script src="http://code.jquery.com/jquery-latest.js"></script>
+    <script src="http://code.jquery.com/jquery-latest.js"</script>
     <script src="jquery-1.11.3.min.js"></script>
     <meta charset="UTF-8">
     <title> pseudoprojekt </title>
@@ -57,7 +57,6 @@
 
         });
     </script>
-
 
 <!--ylesanne7-->
 <br><br><br>
